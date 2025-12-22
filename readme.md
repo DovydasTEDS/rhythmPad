@@ -22,12 +22,10 @@ Case Components:
 - Top Case.step
 - Bottom Case.step
 
-Yes I am aware that this is larger than 200x200x100mm, but hopefully this can be an exception...  
-
 Schematic            |  PCB         |   PCB (3d)
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![image](img/schematic.png)    |  ![image](img/pcb.png)  | ![image](img/pcb_3d.png)
 
 Case (Assembled)            |  Case         
 :-------------------------:|:-------------------------:|
-![image](img/case.png)    |  ![image](img/case2.png)
+![image](img/rhythmpad.png)    |  ![image](img/case.png)
