@@ -17,8 +17,8 @@ Main Components:
 
 Case Components:
 
-- 4x M3 Heatset
-- 4x M3x16 Bolt
+- 5x M3 Heatset
+- 5x M3x16 Bolt
 - Top Case.step
 - Bottom Case.step
 
